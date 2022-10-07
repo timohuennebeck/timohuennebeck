@@ -3,7 +3,7 @@
 
 I'm Timo Huennebeck (he/him). I'm a Full-Stack Developer who was borned and raised in Cologne, GER - living in Melbourne, AUS.
 
-I'm also an automation enthusiast and attempt to automate whatever possible. Whether it be using Google Home to turn on the lights the moment I get home, or using Zapier to connect GitHub and Jira to get a notifcation when pull request has been opened.
+I'm also an automation enthusiast and attempt to automate whatever possible. Whether it be using Google Home to turn on the lights the moment I get home, or using Zapier to connect GitHub and Jira to get a notifcation when a pull request has been opened.
 
 ### Personal Projects
 

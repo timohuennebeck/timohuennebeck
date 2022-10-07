@@ -30,6 +30,14 @@ This is just a personal project to put to practice all the programming knowledge
 - 15th of March., 2023 (Full-Version)
 - ...
 
+### Bootcamp Projects
+
+[BrainFlix](https://github.com/timohuennebeck/timo-huennebeck-brainflix)
+<br>
+[Brandsite](https://github.com/timohuennebeck/timo-huennebeck-brandsite)
+<br>
+[Travelsite](https://github.com/timohuennebeck/timo-huennebeck-travelsite)
+
 
 ### Languages
 

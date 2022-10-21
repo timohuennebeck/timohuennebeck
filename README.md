@@ -1,5 +1,5 @@
 
-<img src="https://github.com/timohuennebeck/timohuennebeck/blob/main/new-header.jpg" width="100%"/>
+<img src="https://github.com/timohuennebeck/timohuennebeck/blob/main/minimalist-header.jpg" width="100%"/>
 
 I'm Timo Huennebeck (he/him). I'm a Full-Stack Developer who was borned and raised in Cologne, GER - living in Melbourne, AUS.
 

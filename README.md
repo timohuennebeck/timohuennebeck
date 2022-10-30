@@ -9,26 +9,37 @@ I'm also an automation enthusiast and attempt to automate whatever possible. Whe
 
 When I got some spare time (when I'm not practicing tennis, of course!) I like working on a couple of side-projects. Here are the most recent ones.
 
-#### Cover Letter Automation Tool
+#### Jarvis, Cover Letter Automation Tool
 
-This desktop app lets one import data from an CSV file, i.e., business name, address, name, personalized text, and so on to decrease the manual work time for each application. Meaning, it takes the CSV's data, creates a profile for each lead, replaces the data in the cover letter using predefined varialbes and then creates a PDF of it to download.
+Jarvis is a software that allows users to write highly personalized cover letters while decreasing the amount of manual work and margin of error, saving 10+ mins per cover letter, on average. Its algorithm allows users to import and edit leads to create cover letters with dynamic content which will be replaced automatically with the help of Jarvis to make creating cover letters more efficient.
 
 > Timeline:
 
-- 11th of Nov., 2022 (Beta-Version)
-- 5th of Dec., 2022 (Full-Version)
-- 5th of Jan., 2023 (Email Automation Feature)
+- 11th of Nov., 2022 (Alpha-Version)
+- 5th of Dec., 2022 (Beta-Version)
+- 5th of Jan., 2023 (Full Version, w. Email Automation)
 - ...
 
-#### Music Desktop App
 
-This is just a personal project to put to practice all the programming knowledge I've learnt over the past couple of months. And, to further learn and develop new skills or languages which I will need to learn to make this web-app come to life. 
+#### Alia, Social Media For Companies
+
+Introducing Alia, the future of hybrid workspaces. It's the "internal" social media for companies that allows employees to stay in touch while working remotely.
 
 > Timeline
 
-- 10th of Feb., 2023 (Beta-Version)
-- 15th of March., 2023 (Full-Version)
+- 10th of Jan., 2023 (Alpha-Version)
 - ...
+
+
+#### Music Desktop App
+
+This is just a project to put to practice all the programming knowledge I've learnt over the past couple of months. And, to further learn and develop new skills or languages which I will need to learn to make this web-app come to life. 
+
+> Timeline
+
+- 10th of Feb., 2023 (Alpha-Version)
+- ...
+
 
 ### Bootcamp Projects
 
@@ -47,13 +58,12 @@ This is just a personal project to put to practice all the programming knowledge
 
 <img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+<img align="left" alt="SQL" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <img align="left" alt="React" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="Node.js" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="MySQL" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="Git" width="24px" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Express" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />

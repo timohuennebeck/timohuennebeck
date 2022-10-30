@@ -7,7 +7,7 @@ I'm also an automation enthusiast and attempt to automate whatever possible. Whe
 
 ### Personal Projects
 
-When I got some spare time (when I'm not practicing tennis, of course!) I like working on a couple of side-projects. Here are the most recent ones.
+When I got some spare time (when I'm not practicing tennis, of course!) I like working on a couple of side-projects. Here are the ones for 2023!
 
 #### Jarvis, Cover Letter Automation Tool
 

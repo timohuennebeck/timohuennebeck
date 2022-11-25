@@ -51,6 +51,20 @@ It's time to put an end to the stress of searching for jobs! 🤷🏻
 
 <br />
 
+
+## INSTOCK - Warehouse Management Platform
+
+This was a group work bootcamp project, collaborating using GitFlow and Jira to produce a warehouse platform to manage inventories and warehouses!
+
+It's a full-stack react app which uses node.js and express on the backend handling all the data. InStock taught us the intricacies of these kind of applications and the need of creating reusable components while working as a team - in this case as four web developers with one project manager.
+
+![instock-demo](https://user-images.githubusercontent.com/107037151/203972745-dd5ab418-d066-427a-b176-fb9ccea78784.gif)
+
+
+
+<br />
+
+
 ## Music Desktop App
 
 This is just a project to put to practice all the programming knowledge I've learnt over the past couple of months. And, to further learn and develop new skills or languages which I will need to learn to make this web-app come to life. 
@@ -58,7 +72,8 @@ This is just a project to put to practice all the programming knowledge I've lea
 
 <br />
 
-## Bootcamp Projects
+
+## Misc. Projects
 
 [BrainFlix](https://github.com/timohuennebeck/timo-huennebeck-brainflix)
 <br>

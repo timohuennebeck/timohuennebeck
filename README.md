@@ -12,7 +12,7 @@ I'm also an `automation enthusiast` and attempt to automate `whatever possible`.
 
 When I got some `spare time` (when I'm not practicing tennis, of course!) I like working on a `couple of side-projects`. Here are the ones for 2023! But before we do that. Don't want to `sift through GitHub` to find all projects and their corresponding `live demos`? You don't have! 👊
 
-I've created this[mobile responsive professional portfolio](https://www.timohuennebeck.com), highlighting all the `important information` about me who are worth chatting about within one place!
+I've created this [mobile responsive professional portfolio](https://www.timohuennebeck.com), highlighting all the `important information` about me who are worth chatting about within one place!
 
 ![portfolio-demo](https://user-images.githubusercontent.com/107037151/203959158-7bcbd2f3-5490-44ca-ac70-c37f18929427.gif)
 

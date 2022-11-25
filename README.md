@@ -1,5 +1,6 @@
 
-<img src="https://github.com/timohuennebeck/timohuennebeck/blob/main/minimalist-header.png" width="100%"/>
+![timo-huennebeck-front-end-developer-header](https://user-images.githubusercontent.com/107037151/204001774-07b990ad-2023-41bd-b09c-22dccbf10ca6.jpg)
+
 
 I'm Timo Huennebeck (he/him). I'm a `Front End Developer` who was borned and raised in Cologne, GER - living in `Melbourne, AUS`! 🇦🇺
 

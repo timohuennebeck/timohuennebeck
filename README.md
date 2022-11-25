@@ -1,9 +1,9 @@
 
 <img src="https://github.com/timohuennebeck/timohuennebeck/blob/main/minimalist-header.png" width="100%"/>
 
-I'm Timo Huennebeck (he/him). I'm a Front End Developer who was borned and raised in Cologne, GER - living in Melbourne, AUS.
+I'm Timo Huennebeck (he/him). I'm a Front End Developer who was borned and raised in Cologne, GER - living in Melbourne, AUS! 🇦🇺
 
-I'm also an automation enthusiast and attempt to automate whatever possible. Whether it be using Google Home to turn on the lights the moment I get home, or using Zapier to connect Trello and LinkedIn to populate a new card with the users information whenever I get a new LinkedIn message! 👊
+I'm also an automation enthusiast and attempt to automate whatever possible. Whether it be using Google Home to turn on the lights the moment I get home, or using Zapier to connect Trello and LinkedIn to populate a new card with the users information whenever I get a new LinkedIn message! 👨🏻‍💻
 
 
 
@@ -29,7 +29,7 @@ Moving from a traditional to a remote working environment can be frustrating, bu
 
 Alia's internal social media platform offers employees an opportunity to find a balance in their life through a sense of community and collaboration both on and off the clock. 
 
-Find out how we are making remote work feel like being in the same room!.
+Find out how we are making remote work feel like being in the same room! 🌻
 
 ![alia-demo](https://user-images.githubusercontent.com/107037151/203959132-9f6a39b5-002a-4c79-9516-898c4e8ae2dc.gif)
 
@@ -44,7 +44,7 @@ Finding a job can be time-consuming and stressful!
 
 Jarvis aims to solve this problem - allowing users to track the status of their job application and create personalised cover letters all while saving 5 - 10min. per application.
 
-It's time to put an end to the stress of searching for jobs!
+It's time to put an end to the stress of searching for jobs! 🤷🏻
 
 ![jarvis-demo](https://user-images.githubusercontent.com/107037151/203959114-04860780-a39b-4607-9134-af5962f03d04.gif)
 

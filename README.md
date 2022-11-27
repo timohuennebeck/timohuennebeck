@@ -34,7 +34,20 @@ Find out how we are making remote work feel like `being in the same room`! 🌻
 
 ![alia-demo](https://user-images.githubusercontent.com/107037151/203959132-9f6a39b5-002a-4c79-9516-898c4e8ae2dc.gif)
 
-### Tech-Stack
+#### Front-End:
+
+`React.js` with `SASS` was used to create reusable components allowing me to develop an `minimal viable product` faster and ensure a consistent design throughout.
+
+
+#### Back-End:
+
+`Node.js` and `Express.js` to create an `REST API` allowing me to connect it to the front-end using 'axios` and use it to handle `user accounts`, comments, hubs data, upcoming meetings / events, plus a lot more features.
+
+`MySQL` with a combination of `Knex.js` was used to create a `relational database` allowing me to `connect users` with their corresponding posts, comments, hubs, etc...
+
+Furthermore, `oAuth` was used to implement `verification` and `authorization` to prohibit unwanted user access.
+
+P.S. This project will `experience` some `refactoring` until the 31st of `December`. Exchanging some `existing JS` code for `TS` one to make this code more `readable, modular and performant`. 
 
 
 <br />
@@ -50,6 +63,22 @@ Jarvis aims to solve this problem - allowing users to `track the status of their
 It's time to put an end to the stress of searching for jobs! 🤷🏻
 
 ![jarvis-demo](https://user-images.githubusercontent.com/107037151/203959114-04860780-a39b-4607-9134-af5962f03d04.gif)
+
+#### Front-End:
+
+`React.js` with `SASS` allowed me to create this `mobile-responsive application` in just one weeks time without having to 'sacrifice performance`.
+
+
+#### Back-End:
+
+`Node.js` and `Express.js` was used to create a `REST API's` that would allow me to receive the data on the front-end using `axios` calls. Furthermore it handled all the users data, leads, companies with their corresponding statuses. 
+
+
+`MySQL` with a combination of `Knex.js` was used here as well to create a `relational database` allowing me to connect the companies with their corresponding leads.
+
+Furthermore, `oAuth` was used to implement `verification` and `authorization` to prohibit unwanted user access.
+
+P.S. This project will `experience` some `refactoring` until the 31st of `December`. Exchanging existing `SASS` files with inline HTML inline `Tailwind` code and `React.js` components with their corresponding `JS` code for `TS` one to make this code more `readable, modular and performant`.
 
 
 <br />

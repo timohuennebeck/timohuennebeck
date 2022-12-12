@@ -21,13 +21,13 @@ I've created this [mobile responsive professional portfolio](https://www.timohue
 
 <br />
 
-## JARVIS - CL Automation Tool
+## JARVIS - Career Management Platform
 
 [Live Demo](https://jarvis-capstone.herokuapp.com) | [Front End](https://github.com/timohuennebeck/jarvis-cap) | [Back End](https://github.com/timohuennebeck/jarvis-cap-api) | [Figma](https://www.figma.com/file/mRpcdBRlbhf98OkEfWMFLu/Jarvis-Cover-Letter-Automation?node-id=0%3A1&t=7dmsTKll8KMuscNX-0)
 
 Finding a job can be `time-consuming` and stressful! 
 
-Jarvis aims to solve this problem - allowing users to `track the status of their job application` and create `personalised cover letters` all while `saving 5 - 10min.` per application.
+Jarvis aims to solve this problem - allowing users to `track the status of their networking connections` as well as `job applications` while saving them 5 - 10min. per application, on average.
 
 It's time to put an end to the stress of searching for jobs! 🤷🏻
 
@@ -51,13 +51,13 @@ P.S. This project will `experience` some `refactoring` until the 31st of `Decemb
 
 <br />
 
-## ALIA - Internal Social Media For Companies
+## ALIA - Enterprise Collaboration Platform
 
 [Live Demo](https://alia-internal-social-media.herokuapp.com) | [Front End](https://github.com/timohuennebeck/alia) | [Back End](https://github.com/timohuennebeck/alia-api) | [Figma](https://www.figma.com/file/VcHAeAbxy9oBoIYdIIOwVm/Alia-Internal-Social-Media?node-id=0%3A1&t=HYBsyJciyzeT7IhY-0)
 
 Moving from a traditional to a `remote working environment` can be `frustrating`, but it doesn't have to be! 
 
-Alia's internal social media platform offers employees an opportunity to `find a balance in their life` through a sense of community and collaboration both `on and off the clock`. 
+Alia's `enterprise collaboration platform` offers employees an opportunity to `find a balance in their life` through a sense of community and collaboration both `on and off the clock`. 
 
 Find out how we are making remote work feel like `being in the same room`! 🌻
 

@@ -19,12 +19,41 @@ I've created this [mobile responsive professional portfolio](https://www.timohue
 
 `Let's talk demos!`
 
+<br />
+
+## JARVIS - CL Automation Tool
+
+[Live Demo](https://jarvis-capstone.herokuapp.com) | [Front End](https://github.com/timohuennebeck/jarvis-cap) | [Back End](https://github.com/timohuennebeck/jarvis-cap-api) | [Figma](https://www.figma.com/file/mRpcdBRlbhf98OkEfWMFLu/Jarvis-Cover-Letter-Automation?node-id=0%3A1&t=7dmsTKll8KMuscNX-0)
+
+Finding a job can be `time-consuming` and stressful! 
+
+Jarvis aims to solve this problem - allowing users to `track the status of their job application` and create `personalised cover letters` all while `saving 5 - 10min.` per application.
+
+It's time to put an end to the stress of searching for jobs! 🤷🏻
+
+![jarvis-demo](https://user-images.githubusercontent.com/107037151/207115862-82870511-7b4d-4c6c-901b-4ba296754fbf.gif)
+
+#### Front-End:
+
+`React.js` with `SASS` allowed me to create this `mobile-responsive application` in just one weeks time without having to 'sacrifice performance`.
+
+
+#### Back-End:
+
+`Node.js` and `Express.js` was used to create a `REST API's` that would allow me to receive the data on the front-end using `axios` calls. Furthermore it handled all the users data, leads, companies with their corresponding statuses. 
+
+
+`MySQL` with a combination of `Knex.js` was used here as well to create a `relational database` allowing me to connect the companies with their corresponding leads.
+
+Furthermore, `oAuth` was used to implement `verification` and `authorization` to prohibit unwanted user access.
+
+P.S. This project will `experience` some `refactoring` until the 31st of `December`. Exchanging existing `SASS` files with inline HTML inline `Tailwind` code and `React.js` components with their corresponding `JS` code for `TS` one to make this code more `readable, modular and performant`.
 
 <br />
 
 ## ALIA - Internal Social Media For Companies
 
-[Live Demo](http://alia-internal-social-media.herokuapp.com) | [Front End](https://github.com/timohuennebeck/alia) | [Back End](https://github.com/timohuennebeck/alia-api) | [Figma](https://www.figma.com/file/VcHAeAbxy9oBoIYdIIOwVm/Alia-Internal-Social-Media?node-id=0%3A1&t=HYBsyJciyzeT7IhY-0)
+[Live Demo](https://alia-internal-social-media.herokuapp.com) | [Front End](https://github.com/timohuennebeck/alia) | [Back End](https://github.com/timohuennebeck/alia-api) | [Figma](https://www.figma.com/file/VcHAeAbxy9oBoIYdIIOwVm/Alia-Internal-Social-Media?node-id=0%3A1&t=HYBsyJciyzeT7IhY-0)
 
 Moving from a traditional to a `remote working environment` can be `frustrating`, but it doesn't have to be! 
 
@@ -49,40 +78,7 @@ Furthermore, `oAuth` was used to implement `verification` and `authorization` to
 
 P.S. This project will `experience` some `refactoring` until the 31st of `December`. Exchanging some `existing JS` code for `TS` one to make this code more `readable, modular and performant`. 
 
-
 <br />
-
-## JARVIS - CL Automation Tool
-
-[Live Demo](http://jarvis-capstone.herokuapp.com) | [Front End](https://github.com/timohuennebeck/jarvis-cap) | [Back End](https://github.com/timohuennebeck/jarvis-cap-api) | [Figma](https://www.figma.com/file/mRpcdBRlbhf98OkEfWMFLu/Jarvis-Cover-Letter-Automation?node-id=0%3A1&t=7dmsTKll8KMuscNX-0)
-
-Finding a job can be `time-consuming` and stressful! 
-
-Jarvis aims to solve this problem - allowing users to `track the status of their job application` and create `personalised cover letters` all while `saving 5 - 10min.` per application.
-
-It's time to put an end to the stress of searching for jobs! 🤷🏻
-
-![jarvis-demo](https://user-images.githubusercontent.com/107037151/203959114-04860780-a39b-4607-9134-af5962f03d04.gif)
-
-#### Front-End:
-
-`React.js` with `SASS` allowed me to create this `mobile-responsive application` in just one weeks time without having to 'sacrifice performance`.
-
-
-#### Back-End:
-
-`Node.js` and `Express.js` was used to create a `REST API's` that would allow me to receive the data on the front-end using `axios` calls. Furthermore it handled all the users data, leads, companies with their corresponding statuses. 
-
-
-`MySQL` with a combination of `Knex.js` was used here as well to create a `relational database` allowing me to connect the companies with their corresponding leads.
-
-Furthermore, `oAuth` was used to implement `verification` and `authorization` to prohibit unwanted user access.
-
-P.S. This project will `experience` some `refactoring` until the 31st of `December`. Exchanging existing `SASS` files with inline HTML inline `Tailwind` code and `React.js` components with their corresponding `JS` code for `TS` one to make this code more `readable, modular and performant`.
-
-
-<br />
-
 
 ## INSTOCK - Warehouse Management Platform
 

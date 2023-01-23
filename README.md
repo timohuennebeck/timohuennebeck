@@ -7,13 +7,14 @@ I'm also an `automation enthusiast` and attempt to automate `whatever possible`.
 
 # Featured Projects
 
-When I got some `spare time` (when I'm not practicing tennis, of course!) I like working on a `couple of side-projects`. I've created these slides here showcasing all the most relevant work.
+When I got some `spare time` (when I'm not practicing tennis or dancing salsa, of course!) I like working on a `couple of side-projects`. I've created these slides here showcasing all the most relevant work.
 
-[![1](https://user-images.githubusercontent.com/107037151/212172166-fe0635dd-6372-4917-b7c3-f628231e0c0d.jpg)](https://www.linkedin.com/in/timo-huennebeck/)
-[![2](https://user-images.githubusercontent.com/107037151/212172171-339166f5-0b85-43ca-9be1-b882625712d5.jpg)](https://www.timohuennebeck.com)
-[![3](https://user-images.githubusercontent.com/107037151/212172173-f1165072-e188-4e94-addb-b66a5dcee251.jpg)](https://www.timohuennebeck.com)
-[![4](https://user-images.githubusercontent.com/107037151/212172174-5dc73c5b-29ea-4145-94db-23d9a8d17816.jpg)](https://irelia-career-management.herokuapp.com)
-[![5](https://user-images.githubusercontent.com/107037151/212172177-88afad64-66c6-493c-9e7f-133155318ce7.jpg)](https://fuse-remote-collaboration.herokuapp.com)
-[![6](https://user-images.githubusercontent.com/107037151/212172179-532ab28e-6298-4c5c-8b2a-efcacb7a622f.jpg)](http://emma-language-learning.herokuapp.com)
-[![7](https://user-images.githubusercontent.com/107037151/212172183-6388c7c2-ab20-4902-b740-cfd3ae9e86ed.jpg)](https://www.linkedin.com/in/timo-huennebeck/)
-[![8](https://user-images.githubusercontent.com/107037151/212172186-3ff5358f-6655-4b47-b2fa-3c210083a159.jpg)](mailto:hello@timohuennebeck.com)
+
+[![1](https://user-images.githubusercontent.com/107037151/214077914-4025caae-786f-4b63-a4c1-dae73ab04dbb.jpg)](https://www.linkedin.com/in/timo-huennebeck/)
+[![2](https://user-images.githubusercontent.com/107037151/214077926-1e581b02-bd48-4f78-a0ad-23a526e8ace7.jpg)](https://www.timohuennebeck.com)
+[![3](https://user-images.githubusercontent.com/107037151/214077931-c2b62913-5a6c-4a2f-93fc-9ab6d4b7e341.jpg)](https://www.timohuennebeck.com)
+[![4](https://user-images.githubusercontent.com/107037151/214077934-745eade9-ad4b-4257-bbd4-cd6d9c939fe8.jpg)](https://irelia-career-management.herokuapp.com)
+[![5](https://user-images.githubusercontent.com/107037151/214077937-bad27b5f-356b-4cf8-9d8e-05b8c0b28a90.jpg)](https://fuse-remote-collaboration.herokuapp.com)
+[![6](https://user-images.githubusercontent.com/107037151/214077939-b03da444-133a-4bd8-8b9f-7a7d1fb8135c.jpg)](http://emma-language-learning.herokuapp.com)
+[![7](https://user-images.githubusercontent.com/107037151/214077944-5f5b02d5-556b-4e5a-92ba-eaccd8639d40.jpg)](https://www.linkedin.com/in/timo-huennebeck/)
+[![8](https://user-images.githubusercontent.com/107037151/214077946-a60b377b-a0fe-4272-b77f-7060bf4667ec.jpg)](mailto:hello@timohuennebeck.com) 

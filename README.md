@@ -1,38 +1,33 @@
-# Hey, I'm Timo 👋
+# Hallo, ich bin Timo 👋
 
-**Frontend dev in Munich** 🥨 — I turn coffee into React, Next.js and Expo.
+Frontend-Entwickler aus München — seit 3,5 Jahren React, Next.js und Expo in Produktion.
 
-By day I build [**phase6**](https://phase-6.de), an edtech platform with ~1M users.
-By night I ship my own iOS apps and argue with LLMs about running training plans. 🏃‍♂️
+Tagsüber baue ich an [**phase6**](https://phase-6.de), einer Lernplattform mit rund einer Million Nutzern. Abends entstehen meine eigenen iOS-Apps.
 
----
-
-## 🚀 Things I've shipped
+## 🚀 Was ich gebaut habe
 
 <table>
 <tr>
 <td align="center" width="25%">
 <a href="https://github.com/timohuennebeck/unload-mobile-app"><b>🧘 Unload</b></a><br/>
-<sub>Habit-change iOS app<br/><b>12k sign-ups</b> · <b>4.6★</b><br/><code>Expo</code> <code>Supabase</code></sub>
+<sub>App gegen schlechte Gewohnheiten<br/><b>12.000+ Anmeldungen</b> · <b>4,6★</b><br/><code>Expo</code> <code>Supabase</code></sub>
 </td>
 <td align="center" width="25%">
 <a href="https://github.com/timohuennebeck/running-app"><b>🏃 Traqa</b></a><br/>
-<sub>Running app where an LLM<br/>writes your training plan<br/><code>Expo</code> <code>Offline-first</code></sub>
+<sub>Lauf-App, deren Trainingspläne<br/>ein LLM schreibt<br/><code>Expo</code> <code>Offline-first</code></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://phase-6.de/schule"><b>🎓 Teacher Area</b></a><br/>
-<sub>Built solo in 4 months<br/><b>Lighthouse 96/96/100/100</b><br/><code>Astro</code></sub>
+<a href="https://phase-6.de/schule"><b>🎓 Lehrerbereich</b></a><br/>
+<sub>allein in 4 Monaten gebaut<br/><b>Lighthouse 96/96/100/100</b><br/><code>Astro</code></sub>
 </td>
 <td align="center" width="25%">
 <a href="https://github.com/timohuennebeck/agent-automation"><b>🤖 Kepler</b></a><br/>
-<sub>Issue board run by<br/>an AI agent<br/><code>Electron</code> <code>SQLite</code></sub>
+<sub>Issue-Board mit<br/>KI-Agent<br/><code>Electron</code> <code>SQLite</code></sub>
 </td>
 </tr>
 </table>
 
----
-
-## 🧰 My toolbox
+## 🧰 Womit ich arbeite
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -45,16 +40,14 @@ By night I ship my own iOS apps and argue with LLMs about running training plans
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
----
+## 🎲 Außerdem
 
-## 🎲 Random facts
+- 📊 Mit selbst gebauten Amplitude-Funnels gezeigt, dass **75 %** der Nutzer beim Anlegen eines Tests abspringen — die Redesigns danach kamen aus diesen Zahlen.
+- 🛒 Vor dem Code: Amazon-Handel aus Mexiko, Meta-Kampagnen aus Kolumbien.
+- 🚴 Abseits vom Bildschirm auf dem Rennrad oder dem Motorrad.
+- 🗣️ Deutsch, Englisch (C1), Spanisch (B1).
 
-- 📊 I once proved with my own Amplitude funnels that **75%** of users bailed halfway through creating a test — then helped redesign the thing.
-- 🛒 Before code, I sold stuff on Amazon from Mexico and ran Meta ads from Colombia. 🌎
-- 🚴 Off-screen you'll find me on a road bike or a motorcycle, going somewhere far.
-- ☕ Fluent in German, English, Spanish — and TypeScript.
-
----
+## 📬 Kontakt
 
 <a href="https://linkedin.com/in/timo-huennebeck"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:jantimohuennebeck@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:jantimohuennebeck@gmail.com"><img src="https://img.shields.io/badge/E--Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>

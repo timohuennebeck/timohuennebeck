@@ -3,25 +3,33 @@
 Frontend-Entwickler aus München — seit 3,5 Jahren React, Next.js und Expo in Produktion.
 
 <!-- TODO: Platzhalter durch echte Screenshots ersetzen (App Store, Simulator, App-Fenster) -->
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://github.com/timohuennebeck/unload-mobile-app"><img src="https://placehold.co/640x400/1f2937/ffffff/png?text=Unload" width="100%" alt="Unload"/></a><br/>
-<a href="https://github.com/timohuennebeck/unload-mobile-app"><b>Unload</b></a><br/>
-<sub>App gegen schlechte Gewohnheiten<br/><b>12.000+ Anmeldungen</b> · <b>4,6★</b><br/><code>Expo</code> <code>Supabase</code></sub>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/timohuennebeck/running-app"><img src="https://placehold.co/640x400/0ea5e9/ffffff/png?text=Traqa" width="100%" alt="Traqa"/></a><br/>
-<a href="https://github.com/timohuennebeck/running-app"><b>Traqa</b></a><br/>
-<sub>Lauf-App, deren Trainingspläne<br/>ein LLM schreibt<br/><code>Expo</code> <code>Offline-first</code></sub>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/timohuennebeck/agent-automation"><img src="https://placehold.co/640x400/111827/ffffff/png?text=Kepler" width="100%" alt="Kepler"/></a><br/>
-<a href="https://github.com/timohuennebeck/agent-automation"><b>Kepler</b></a><br/>
-<sub>Issue-Board mit<br/>KI-Agent<br/><code>Electron</code> <code>SQLite</code></sub>
-</td>
-</tr>
-</table>
+
+### [Unload](https://github.com/timohuennebeck/unload-mobile-app)
+
+App gegen schlechte Gewohnheiten. Wer aufhören will, landet über eine Warteschlange automatisch in einer festen Gruppe von zwei bis vier Leuten mit Echtzeit-Chat — durchhalten funktioniert gemeinsam eben besser als allein.
+
+**12.000+ Anmeldungen** · **~800 aktive Nutzer** · **4,6★** aus 50+ Bewertungen · bis zu **280 €** im Monat
+`Expo` `React Native` `Supabase`
+
+<a href="https://github.com/timohuennebeck/unload-mobile-app"><img src="https://placehold.co/1200x500/1f2937/ffffff/png?text=Unload" width="100%" alt="Unload"/></a>
+
+### [Traqa](https://github.com/timohuennebeck/running-app)
+
+Lauf-App, deren Trainingspläne ein LLM schreibt — aus dem Onboarding heraus, mit Verletzungshistorie, Wochenkilometern, Zielen, Untergrund und den Tagen, an denen wirklich Zeit ist. Offline-first, mit GPS im Hintergrund, nachträglichem Import und Karte.
+
+**9 Monate Entwicklung** · **Mehrwochen-Pläne per LLM** · **Offline-first**
+`Expo` `React Native` `GPS`
+
+<a href="https://github.com/timohuennebeck/running-app"><img src="https://placehold.co/1200x500/0ea5e9/ffffff/png?text=Traqa" width="100%" alt="Traqa"/></a>
+
+### [Kepler](https://github.com/timohuennebeck/agent-automation)
+
+Lokales Issue-Board mit KI-Agent. Der Agent liest das Board, arbeitet Aufgaben ab und schreibt zurück — alles auf der eigenen Platte, ohne API-Key und ohne fremden Server.
+
+**Läuft komplett lokal** · **Kein API-Key nötig** · **Claude Agent SDK**
+`Electron` `React` `SQLite`
+
+<a href="https://github.com/timohuennebeck/agent-automation"><img src="https://placehold.co/1200x500/111827/ffffff/png?text=Kepler" width="100%" alt="Kepler"/></a>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

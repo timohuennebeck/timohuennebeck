@@ -1,18 +1,60 @@
-### Timo Hünnebeck — Senior Frontend Developer · Munich
+# Hey, I'm Timo 👋
 
-React, Next.js and Expo in production for 3.5 years — trainee to senior at Horizon Alpha, where I built two product areas of **phase6** (~1 million users) from the ground up.
+**Frontend dev in Munich** 🥨 — I turn coffee into React, Next.js and Expo.
 
-I ship, then measure. Self-built Amplitude funnels put numbers on phase6's two biggest drop-off points — 75% abandonment in test creation, 18% sign-up conversion — and the redesigns that followed came from those numbers rather than from opinion.
+By day I build [**phase6**](https://phase-6.de), an edtech platform with ~1M users.
+By night I ship my own iOS apps and argue with LLMs about running training plans. 🏃‍♂️
 
-| Shipped | |
-| --- | --- |
-| **[Unload](https://github.com/timohuennebeck/unload-mobile-app)** | Habit-change iOS app. **12,000+ sign-ups**, ~800 active users, **4.6★** from 50+ reviews, up to €280/mo. Queue-based matching into fixed groups of 2–4 with real-time chat. Expo · Supabase |
-| **[Traqa](https://github.com/timohuennebeck/running-app)** | Running app that generates multi-week training plans with an LLM from the onboarding — injury history, weekly mileage, goals, terrain, available days. Offline-first, background GPS, map integration. Expo |
-| **[Teacher Area](https://phase-6.de/schule)** | Built from scratch in Astro in 4 months. **Lighthouse 96** performance, **96** accessibility (screen-reader support under the German Accessibility Act), **100** best practices, **100** SEO. |
-| **[Kepler](https://github.com/timohuennebeck/agent-automation)** | Local-first issue board driven by an AI agent. Electron · React · SQLite · Claude Agent SDK |
+---
 
-**Stack** — TypeScript · React · Next.js · Expo · Astro · Node · PostgreSQL / Supabase · AWS (Cloud Practitioner) · GitLab CI · Cypress · Sentry · Amplitude
+## 🚀 Things I've shipped
 
-Away from the keyboard: road cycling and motorcycle touring.
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://github.com/timohuennebeck/unload-mobile-app"><b>🧘 Unload</b></a><br/>
+<sub>Habit-change iOS app<br/><b>12k sign-ups</b> · <b>4.6★</b><br/><code>Expo</code> <code>Supabase</code></sub>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/timohuennebeck/running-app"><b>🏃 Traqa</b></a><br/>
+<sub>Running app where an LLM<br/>writes your training plan<br/><code>Expo</code> <code>Offline-first</code></sub>
+</td>
+<td align="center" width="25%">
+<a href="https://phase-6.de/schule"><b>🎓 Teacher Area</b></a><br/>
+<sub>Built solo in 4 months<br/><b>Lighthouse 96/96/100/100</b><br/><code>Astro</code></sub>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/timohuennebeck/agent-automation"><b>🤖 Kepler</b></a><br/>
+<sub>Issue board run by<br/>an AI agent<br/><code>Electron</code> <code>SQLite</code></sub>
+</td>
+</tr>
+</table>
 
-[LinkedIn](https://linkedin.com/in/timo-huennebeck) · jantimohuennebeck@gmail.com
+---
+
+## 🧰 My toolbox
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+
+---
+
+## 🎲 Random facts
+
+- 📊 I once proved with my own Amplitude funnels that **75%** of users bailed halfway through creating a test — then helped redesign the thing.
+- 🛒 Before code, I sold stuff on Amazon from Mexico and ran Meta ads from Colombia. 🌎
+- 🚴 Off-screen you'll find me on a road bike or a motorcycle, going somewhere far.
+- ☕ Fluent in German, English, Spanish — and TypeScript.
+
+---
+
+<a href="https://linkedin.com/in/timo-huennebeck"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:jantimohuennebeck@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>

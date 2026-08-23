@@ -13,6 +13,9 @@ Frontend-Entwickler aus München — seit 3,5 Jahren React, Next.js und Expo in 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
+<a href="https://linkedin.com/in/timo-huennebeck"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:jantimohuennebeck@gmail.com"><img src="https://img.shields.io/badge/E--Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 <!-- TODO: Platzhalter durch echte Screenshots ersetzen (App Store, Simulator, App-Fenster) -->
 
 ### [Unload](https://github.com/timohuennebeck/unload-mobile-app)
@@ -41,6 +44,3 @@ Lokales Issue-Board mit KI-Agent. Der Agent liest das Board, arbeitet Aufgaben a
 `Electron` `React` `SQLite`
 
 <a href="https://github.com/timohuennebeck/agent-automation"><img src="https://placehold.co/1200x500/111827/ffffff/png?text=Kepler" width="100%" alt="Kepler"/></a>
-
-<a href="https://linkedin.com/in/timo-huennebeck"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:jantimohuennebeck@gmail.com"><img src="https://img.shields.io/badge/E--Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>

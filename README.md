@@ -26,7 +26,7 @@ Lauf-App, deren Trainingspläne ein LLM schreibt — aus dem Onboarding heraus, 
 
 Lokales Issue-Board mit KI-Agent. Der Agent liest das Board, arbeitet Aufgaben ab und schreibt zurück — alles auf der eigenen Platte, ohne API-Key und ohne fremden Server.
 
-**Läuft komplett lokal** · **Kein API-Key nötig** · **Claude Agent SDK**
+**Läuft komplett lokal** · **Claude Agent SDK**
 `Electron` `React` `SQLite`
 
 <a href="https://github.com/timohuennebeck/agent-automation"><img src="https://placehold.co/1200x500/111827/ffffff/png?text=Kepler" width="100%" alt="Kepler"/></a>

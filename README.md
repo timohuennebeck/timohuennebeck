@@ -2,37 +2,26 @@
 
 Frontend-Entwickler aus München — seit 3,5 Jahren React, Next.js und Expo in Produktion.
 
-Tagsüber baue ich an [**phase6**](https://phase-6.de), einer Lernplattform mit rund einer Million Nutzern. Abends entstehen meine eigenen iOS-Apps.
-
-### 🚀 Was ich gebaut habe
-
 <!-- TODO: Platzhalter durch echte Screenshots ersetzen (App Store, Simulator, App-Fenster) -->
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <a href="https://github.com/timohuennebeck/unload-mobile-app"><img src="https://placehold.co/640x400/1f2937/ffffff/png?text=Unload" width="100%" alt="Unload"/></a><br/>
 <a href="https://github.com/timohuennebeck/unload-mobile-app"><b>Unload</b></a><br/>
 <sub>App gegen schlechte Gewohnheiten<br/><b>12.000+ Anmeldungen</b> · <b>4,6★</b><br/><code>Expo</code> <code>Supabase</code></sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <a href="https://github.com/timohuennebeck/running-app"><img src="https://placehold.co/640x400/0ea5e9/ffffff/png?text=Traqa" width="100%" alt="Traqa"/></a><br/>
 <a href="https://github.com/timohuennebeck/running-app"><b>Traqa</b></a><br/>
 <sub>Lauf-App, deren Trainingspläne<br/>ein LLM schreibt<br/><code>Expo</code> <code>Offline-first</code></sub>
 </td>
-<td align="center" width="25%">
-<a href="https://phase-6.de/schule"><img src="https://placehold.co/640x400/7c3aed/ffffff/png?text=Lehrerbereich" width="100%" alt="Lehrerbereich"/></a><br/>
-<a href="https://phase-6.de/schule"><b>Lehrerbereich</b></a><br/>
-<sub>allein in 4 Monaten gebaut<br/><b>Lighthouse 96/96/100/100</b><br/><code>Astro</code></sub>
-</td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <a href="https://github.com/timohuennebeck/agent-automation"><img src="https://placehold.co/640x400/111827/ffffff/png?text=Kepler" width="100%" alt="Kepler"/></a><br/>
 <a href="https://github.com/timohuennebeck/agent-automation"><b>Kepler</b></a><br/>
 <sub>Issue-Board mit<br/>KI-Agent<br/><code>Electron</code> <code>SQLite</code></sub>
 </td>
 </tr>
 </table>
-
-### 🧰 Womit ich arbeite
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -44,8 +33,6 @@ Tagsüber baue ich an [**phase6**](https://phase-6.de), einer Lernplattform mit 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-
-### 📬 Kontakt
 
 <a href="https://linkedin.com/in/timo-huennebeck"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:jantimohuennebeck@gmail.com"><img src="https://img.shields.io/badge/E--Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
